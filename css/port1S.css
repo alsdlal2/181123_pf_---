@@ -33,7 +33,7 @@ header #navi li {float:left; display: inline; width: 17%; height: 64px; font-siz
 
 #viewc #swiper-container .swiper-button-next{ position: absolute; top:250px; right: 170px; cursor: pointer; z-index: 13; width:83px; height: 154px;}
 
-#content{ width: 1440px; position: relative; margin: 0 auto; border: 1px solid #dfdfdf; height: 100%; }
+#content{ width: 1348px; position: relative; margin: 0 auto;  height: 962px; }
 
  #content .Rig {width: 446px; border-left: 1px solid #dfdfdf; float: left; }
 
@@ -145,7 +145,7 @@ header #navi li {float:left; display: inline; width: 17%; height: 64px; font-siz
     .subPimg1{ width: 1050px; height: 553px; margin: 0 auto; position: relative; margin-bottom: 84px; }
     .subPimg1 img{ width: 1050px; height: 553px;  top: 0; left: 0;}
 
-  .section{ padding: 70px; float: left; position: relative; margin: 0 auto; }
+  .section{ padding: 70px; float: left; position: relative; margin: 0 auto; border: 1px solid #dfdfdf; }
   
   #content .introduce .Sptitle { font-size: 30px;  font-weight: bold; margin-bottom: 33px; }
 
