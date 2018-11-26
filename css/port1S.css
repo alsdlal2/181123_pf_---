@@ -165,3 +165,4 @@ footer .logo{ position: absolute; left: 160px; top: 40px; }
 footer p { position: absolute;
  right: 160px; top:60px; font-size: 16px; color: #777; }
 
+footer span { padding-left: 50px; }
